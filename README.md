@@ -6,7 +6,7 @@
 Servidor HTTP na porta 8080 que retorna um código de status HTTP aleatório
 ## Exemplo em Go
 ```console
-$ git clone https://github.com/sidney-neto/random-http-status-
+$ git clone https://github.com/sidney-neto/random-http-status-code
 $ go run webserver.go
 # Abrir no navegador - http://localhost:8080
 ```
